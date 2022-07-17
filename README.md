@@ -8,6 +8,8 @@
   <a>:mailbox:How to reach me:</a> 
   <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70" height="15"/>
+    <img src="https://ouch-cdn2.icons8.com/KDWSUwPNbeZaxOYggiW8VmQJqy7p2cIN_g0lq-Ywo34/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/L2I5MDg2ZjUyLTRi/NWMtNDYyZC1iMTli/LTk5Y2Q0NGZiYjI4/Yi5wbmc.png" alt="LinkedIn Badge"/>
+    
     </a>
   </div>
   <hr>
