@@ -37,7 +37,7 @@
   </div>
 </div>
 <hr/>
-<div>
 ## My stats:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?It-Shu=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?https://github.com/It-Shu?tab=repositories=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
