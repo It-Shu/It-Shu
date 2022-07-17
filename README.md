@@ -6,7 +6,7 @@
 
   <div id="badges" align="center">
    :mailbox:How to reach me: <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="40" height="20"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="50" height="20"/>
     </a>
   </div>
   
