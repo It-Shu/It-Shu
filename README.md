@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
+<div align="start">
   <div>
     - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
   </div>
