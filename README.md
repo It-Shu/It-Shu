@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  <div id="badges" align="center">
+  <div id="badges" align="center" margin-bottom="30">
    :mailbox:How to reach me: <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70" height="20"/>
     </a>
