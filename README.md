@@ -26,11 +26,15 @@
 </div>
 
 <div align="center">
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+  <div>
+    - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+  </div>
+  <div>
+    - :zap: In my free time, I solve problems on CodeWars and read tech articles.
+  </div>
 </div>
 
-
+<div></div>
 <!--
 **It-Shu/It-Shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
