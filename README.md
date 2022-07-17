@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  <div id="badges">
+ - :mailbox:How to reach me: <div id="badges">
     <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 <!--
 **It-Shu/It-Shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
