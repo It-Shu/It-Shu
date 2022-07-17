@@ -5,7 +5,7 @@
 </div>
 
   <div id="badges" align="center">
-  <font size="6">Это строка текста!</font>
+  <font size="18">Это строка текста!</font>
   <a>:mailbox:How to reach me: </a> 
   <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70" height="20"/>
