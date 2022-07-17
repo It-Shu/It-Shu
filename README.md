@@ -5,11 +5,12 @@
 </div>
 
   <div id="badges" align="center">
-   :mailbox:How to reach me: <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
+  <a height="20">:mailbox:How to reach me: </a> 
+  <a href="https://www.linkedin.com/in/sergei-shustov-86710b1ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70" height="20"/>
     </a>
   </div>
-  
+  <hr>
   ### :hammer_and_wrench: Languages and Tools :
   
 <div align="center">
@@ -26,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
+<hr>
 <div align="start">
   <div>
     - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
