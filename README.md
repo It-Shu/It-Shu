@@ -14,6 +14,16 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-011?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-011?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-011?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-011?&logo=React)
+![Redux](https://img.shields.io/badge/Redux-011?logo=redux)
+![TypeScript](https://img.shields.io/badge/-TypeScript-011?&logo=TypeScript)
+![GIT](https://img.shields.io/badge/-GIT-011?&logo=GIT)
+![ESLint](https://img.shields.io/badge/-ESLint-011?&logo=ESLint)
+![Figma](https://img.shields.io/badge/-Figma-011?&logo=Figma)
 
 <!--
 **It-Shu/It-Shu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
