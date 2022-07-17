@@ -36,5 +36,8 @@
     - :zap: In my free time, I solve problems on CodeWars and read tech articles.
   </div>
 </div>
-
-<div></div>
+<hr/>
+<div>
+## My stats:
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ihomeeer&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+</div>
