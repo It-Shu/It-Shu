@@ -32,9 +32,6 @@
   <div>
     - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
   </div>
-  <div>
-    - :zap: In my free time, I solve problems on CodeWars and read tech articles.
-  </div>
 </div>
 <hr/>
 
