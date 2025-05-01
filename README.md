@@ -32,7 +32,7 @@
 <hr>
 <div align="start">
   <div>
-    - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+    - :telescope: I work as a software engineer and am involved in frontend and backend development for building web applications.
   </div>
 </div>
 <hr/>
